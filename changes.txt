@@ -1,0 +1,4 @@
+i changed the android name in the androidmanifest.xml file
+
+before 
+android:name="${applicationName}"
